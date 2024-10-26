@@ -1,4 +1,4 @@
-# Once-Humann-with-No-Spyware
+# Once-Human-with-No-Spyware
 A script for disabled Spyware to Once Human (with Steam)
 
 For use this, you need to have Once Human installed on your pc with Steam and run this script every time you want to play... Be careful, the script will take care of launching the game with steam.
