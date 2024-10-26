@@ -5,4 +5,4 @@ For use this, you need to have Once Human installed on your pc with Steam and ru
 
 The licence is Creative Common --  CC-by-nc-sa 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr)
 
-You need to install and launch the .exe app available in    .
+You need to install and launch the .exe app available in branch 2.
